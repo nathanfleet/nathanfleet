@@ -4,7 +4,7 @@
     <b>Welcome to my page!</b><br><br>
     <i>
         I'm Nathan.<br>
-        Currently looking for summer projects!<br>
+        Currently working on something special! 👀<br>
         Open to collaborating.<br>
     </i><br>
     <a href="https://www.linkedin.com/in/nathan-fleet-555897217/">
