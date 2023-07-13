@@ -4,8 +4,6 @@
     <b>Welcome to my page!</b><br><br>
     <i>
         I'm Nathan.<br>
-        Currently working on something special! 👀<br>
-        Open to collaborating.<br>
     </i><br>
     <a href="https://www.linkedin.com/in/nathan-fleet-555897217/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
