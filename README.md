@@ -1,4 +1,4 @@
-<h1 align="center">Hi, guys! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px" alt="👋"></h1>
+<h1 align="center">Hi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px" alt="👋"></h1>
 
 <p align="center">
     <b>Welcome to my page!</b><br><br>
@@ -46,12 +46,6 @@
   </a>
 </p>
 </details>
-
-<p align="center">
-  <a href="https://github.com/nathanfleet">
-    <img src="https://komarev.com/ghpvc/?username=nathanfleet&color=blue&style=flat)" />
-  </a>
-</p>
 <!--
 
 - 🔭 I’m currently working on ...
